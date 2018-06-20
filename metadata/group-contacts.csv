@@ -33,7 +33,7 @@ GO_Central,Chris Mungall,@cmungall,Ontology|Anatomy
 GR,Pankaj Jaiswal,,
 HGNC,Ruth Lovering,@RLovering,
 HPA,Emma Lundberg, emma.lundberg AT scilifelab.se,
-IntAct,Birgit Meldal,@bmeldal,
+IntAct,Birgit Meldal,@bmeldal, Sandra Orchard, @sandraorchard
 InterPro,Amaia Sangrador,@asangrador,
 InterPro,Alex Mitchell,@almitchell,
 InterPro,Lorna Richardson,@happy-lorna,
@@ -85,7 +85,7 @@ TIGR,GO_Central,@vanaukenk,C.elegans
 UniProt (EBI),Penelope Garmiri,@pgarmiri,
 UniProt (EBI),George Georghiou,@ggeorghiou,
 UniProt (EBI),Michelle Magrane,@magrane,
-UniProt (EBI),Sandra Orchard,@sandraorchard,
+UniProt (EBI),Sandra Orchard,@sandraorchard, Protein FUnction, molecular interaction, protein complexes
 UniProt (Swiss-Prot/Geneva),Andrea Auchincloss,@AndreaAuchincloss,Bacteria
 UniProt (Swiss-Prot/Geneva),Florence Jungo,@FJungo, Venoms
 UniProt (Swiss-Prot/Geneva),Kristian Axelsen,@kaxelsen,
